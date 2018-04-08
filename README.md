@@ -4,13 +4,33 @@ Main Site:
 
 https://codejam.withgoogle.com/2018/
 
-Practice Session - Problems:
+**Practice Session**
+
+Problems:
 
 https://codejam.withgoogle.com/2018/challenges/0000000000000130/dashboard
 
-Practice Session - Scoreboard:
+Scoreboard:
 
 https://codejam.withgoogle.com/2018/challenges/0000000000000130/scoreboard
+
+Analysis:
+
+https://codejam.withgoogle.com/2018/challenges/0000000000000130/analysis
+
+**Qualification Round**
+
+Problems:
+
+https://codejam.withgoogle.com/2018/challenges/00000000000000cb/dashboard
+
+Scoreboard:
+
+https://codejam.withgoogle.com/2018/challenges/00000000000000cb/scoreboard
+
+Analysis:
+
+https://codejam.withgoogle.com/2018/challenges/00000000000000cb/analysis
 
 ## Code Jam
 
